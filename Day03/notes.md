@@ -35,3 +35,13 @@ Shows my previous commits in a compact format.
 I'm a little overwhelmed with everything, but hopefully the more I do it, the more I will learn and it will eventually become second nature.
 
 The good thing is that I can learn at my own pace.
+
+
+Your normal workflow from now on
+
+When you finish some meaningful work:
+
+git status
+git add <file-or-folder>
+git commit -m "Describe what I changed"
+git push
